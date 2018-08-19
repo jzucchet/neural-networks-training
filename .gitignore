@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# User-specific stuff
+.idea/**/*.xml
+.idea/**/*.iml
+.idea/**/dictionaries
+.idea/**/shelf
